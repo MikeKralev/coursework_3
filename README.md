@@ -1,1 +1,5 @@
-# coursework_3
+# **Coursework №3**
+
+ >**run.py** - для запуска сайта
+
+ >**pytest** - для тестов
